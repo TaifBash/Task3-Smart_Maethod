@@ -1,4 +1,4 @@
-# Task3-Smart_Maethod
+# hand joint Task3
 
 # Task3_1
 Design a shape to can move the entire hand joint 180 degrees
